@@ -65,3 +65,22 @@ body {
   border-radius: 10px;
   margin-top: 1rem;
 }
+
+.about {
+  padding: 3rem 1.5rem;
+  background-color: #ffffff;
+  max-width: 800px;
+  margin: auto;
+  text-align: left;
+}
+
+.about h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.about p {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: #444;
+}
