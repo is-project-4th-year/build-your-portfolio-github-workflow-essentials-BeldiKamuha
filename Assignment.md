@@ -39,7 +39,7 @@ Helped keep commit history clean and readable using consistent, descriptive mess
 ![Branch List](assets/screenshots/C_Branching.png)
 
 ### D. Pull Requests
-![Pull Request](assets/screenshots/D_Pull Requests.png)
+![Pull Request](assets/screenshots/D_PullRequests.png)
 
 ### E. Merge Conflict Resolution
 ![Conflict Resolved](assets/screenshots/E_MergeConflictResolution_1.png)
